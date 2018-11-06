@@ -1,12 +1,13 @@
 // Import ArrayList package.
 import java.util.ArrayList;
+
 // Import ListIterator package.
 import java.util.ListIterator;
  
 // Create a public class.
 public class UnListIterator {
  
-	//
+	// Use the main method.
 	public static void main(String[] args) {
 
 	    // Create a String ArrayList.
@@ -27,7 +28,7 @@ public class UnListIterator {
 	    // Add fifth element.
 	    arrayList.add("element_5");
   
-	    //
+	    // Start the List Iterator.
 	    ListIterator it = arrayList.listIterator();
   
 	    // Something is going to happen until the List Iterator has not a token.
