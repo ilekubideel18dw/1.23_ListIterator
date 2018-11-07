@@ -1,3 +1,6 @@
+// ListIterator is used to iterate elements one-by-one from a List implemented object.
+// Iterate / Iterar: Ejecutar repetidamente una serie de operaciones (rutina) hasta satisfacer una determinada condición.
+
 // Import ArrayList package.
 import java.util.ArrayList;
 
